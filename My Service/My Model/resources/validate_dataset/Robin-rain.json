@@ -1,0 +1,7 @@
+{
+  "name": "Robin",
+  "weather": {
+    "rainForecast": 90,
+    "temperature": "cold"
+  }
+}
